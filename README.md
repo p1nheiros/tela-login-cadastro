@@ -21,8 +21,8 @@ Este projeto é uma tela de login moderna e funcional desenvolvida com HTML, CSS
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/p1nheiros/tela-login-cadastro.git
 2. Navegue até o diretório do projeto:
    ```sh
-   cd nome-do-repositorio
+   cd tela-login-cadastro
 3. Abra o arquivo index.html no seu navegador preferido.
